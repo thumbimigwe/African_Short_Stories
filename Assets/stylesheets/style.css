@@ -24,7 +24,16 @@ body
     padding-left: 5px;
     padding-right: 5px;  
 }
+#HashTag{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style:groove;
+    background: #ffffff;
+	border-color: rgb(173, 173, 173);
+	box-shadow: 10px 5px 5px #000000;
 
+}
 section
 {
     text-align: center;
